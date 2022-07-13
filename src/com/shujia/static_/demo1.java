@@ -8,5 +8,7 @@ public class demo1 {
     public static int i=10;
     public void test(){
         System.out.println(i);
+
     }
+
 }
